@@ -1,0 +1,24 @@
+{
+  "name": "adonis-app",
+  "description": "Adonisjs application template",
+  "main": "server.js",
+  "authors": [
+    "Unicorn-IT GmbH"
+  ],
+  "license": "MIT",
+  "moduleType": [
+    "es6"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
